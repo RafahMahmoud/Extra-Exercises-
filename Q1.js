@@ -1,0 +1,14 @@
+console.log(-5*3);
+console.log("JavaScript "+50);
+console.log(17%5);
+console.log(5%17);
+console.log(5/10);
+console.log(4==='4');
+console.log(4!=5);
+console.log(7<=8);
+console.log("Hello"+5);
+let x = prompt("Please enter a number");
+console.log(Math.ceil(x));
+console.log(Math.floor(x));
+console.log(x**2);
+console.log(Math.pow(x,2));
